@@ -1,7 +1,8 @@
 # Python Problems
 
-Collection of problems from programming textbook
-The collection consists of
+Collection of problems from programming textbook.
+<br/>
+The collection consists of the following topics.
 <ol>
   <li>Brute force</li>
   <li>Divide and conquer</li>
